@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'ORSwiftUtils'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'Library with helpful utils for Swift'
   s.description      = <<-DESC
   Swift extensions and utils that allow you to have clean code.
