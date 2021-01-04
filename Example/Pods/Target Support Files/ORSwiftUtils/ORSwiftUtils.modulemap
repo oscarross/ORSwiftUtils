@@ -1,0 +1,6 @@
+framework module ORSwiftUtils {
+  umbrella header "ORSwiftUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}

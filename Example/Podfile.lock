@@ -1,0 +1,16 @@
+PODS:
+  - ORSwiftUtils (0.1.0)
+
+DEPENDENCIES:
+  - ORSwiftUtils (from `../`)
+
+EXTERNAL SOURCES:
+  ORSwiftUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ORSwiftUtils: fbd035638dcb68da0615ec5787b44bdcb7dc79e2
+
+PODFILE CHECKSUM: 9a3d7b1c5de936c4e2d89c1a38ca36ef47dd3ea1
+
+COCOAPODS: 1.10.0
